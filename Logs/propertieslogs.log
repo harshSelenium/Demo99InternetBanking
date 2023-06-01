@@ -1,0 +1,451 @@
+[INFO ] 2023-05-21 16:41:49.179 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-21 16:41:49.188 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-21 16:41:53.704 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-21 16:41:53.714 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-21 17:18:03.920 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-21 17:18:03.926 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-21 17:18:07.771 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-21 17:18:40.566 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-21 17:18:40.577 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-21 17:18:43.920 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-21 17:19:14.681 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-21 17:19:14.686 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-21 17:19:19.911 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-21 17:19:19.985 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-23 20:13:35.629 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-23 20:13:35.652 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-23 20:13:51.538 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-23 20:15:24.393 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-23 20:15:24.414 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-23 20:15:37.515 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-23 20:15:37.535 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-23 20:34:22.407 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-23 20:34:22.425 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-23 20:34:39.658 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-23 20:34:39.671 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 15:34:31.696 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 15:34:31.702 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 15:35:41.009 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 15:35:41.021 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 19:37:06.191 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 19:37:06.204 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 19:37:12.323 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 19:37:12.342 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 19:48:27.248 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-25 19:48:27.253 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 19:48:33.708 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 19:48:33.714 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 19:57:50.346 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-25 19:57:50.677 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 19:57:56.878 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 19:57:56.895 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 20:06:25.976 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 20:06:26.198 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 20:06:32.654 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 20:06:32.664 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 20:06:35.386 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-25 20:06:35.433 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 20:06:42.550 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 20:06:42.553 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 20:58:24.186 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 20:58:24.402 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 20:58:54.927 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 20:58:54.934 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-25 21:00:43.277 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:00:43.579 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:01:07.184 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:01:07.187 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-25 21:02:03.387 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:02:03.626 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:02:21.867 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:02:23.090 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:02:23.357 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:02:53.724 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-25 21:04:54.023 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:04:54.220 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:05:16.889 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:05:16.900 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 21:05:20.040 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-25 21:05:20.075 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:05:38.966 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:05:38.968 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-25 21:07:14.023 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:07:14.229 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:07:37.317 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:07:37.317 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-25 21:07:38.520 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-25 21:07:38.697 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-25 21:07:57.627 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-25 21:07:57.629 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-26 17:24:22.616 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-26 17:24:22.770 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 17:28:42.528 [main] TestBase - launching browser-Completed
+[INFO ] 2023-05-26 17:28:42.665 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:15:11.546 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:15:11.576 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:15:34.415 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:15:34.418 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-26 18:15:43.348 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:15:43.371 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:16:06.689 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:24:37.676 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:24:37.721 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:27:04.158 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:27:04.184 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:27:22.990 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:27:47.880 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:27:47.906 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:28:09.381 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:28:34.453 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:28:34.497 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:28:49.065 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:28:49.067 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:30:56.368 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:30:56.395 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:31:21.772 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:31:21.772 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:31:40.252 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:31:40.284 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:32:17.250 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:32:17.252 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:43:15.273 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:43:15.310 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:43:32.951 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:43:32.955 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:44:33.744 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:44:33.774 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:44:52.248 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:44:52.252 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:53:46.735 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 18:53:52.859 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:53:52.882 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:54:08.256 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:54:08.260 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:54:12.447 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 18:54:32.426 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:54:32.451 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:54:53.855 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:54:53.863 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:56:57.683 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 18:57:03.224 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:57:03.249 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:57:21.801 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:57:21.805 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:57:27.825 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 18:57:41.083 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:57:41.118 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:58:03.397 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:58:03.400 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 18:59:15.345 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 18:59:21.279 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 18:59:21.307 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 18:59:42.812 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 18:59:42.828 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:06:34.488 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 19:06:44.293 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:06:44.317 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:07:14.348 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:08:04.013 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:08:04.041 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:08:34.066 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:08:44.968 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:08:45.285 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:09:15.307 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:09:57.523 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:09:57.545 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:10:33.059 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 19:10:33.064 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:11:20.472 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:11:20.498 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:11:44.874 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 19:11:44.878 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:14:12.247 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:14:12.275 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:14:31.016 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 19:14:31.020 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:15:09.578 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:15:09.875 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:15:43.165 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:15:43.209 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:15:45.966 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 19:15:57.773 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:15:58.073 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:16:31.015 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 19:16:31.018 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-26 19:16:33.663 [main] TestBase - Date entered successfully
+[INFO ] 2023-05-26 19:16:57.216 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-26 19:16:57.252 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-26 19:17:27.946 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-26 19:17:27.954 [main] TestBase - Creating new customer - started
+[INFO ] 2023-05-27 18:55:19.528 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 18:55:19.569 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 18:55:27.648 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 18:55:27.652 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 18:55:55.859 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 18:55:55.905 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 18:56:04.672 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 18:56:04.677 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 18:56:46.099 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 18:56:46.130 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 18:56:52.909 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 18:56:52.917 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 19:03:10.957 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 19:03:11.250 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 19:03:19.108 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 19:03:19.116 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 19:04:39.592 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 19:04:39.619 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 19:04:48.004 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 19:04:48.008 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 19:13:59.211 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 19:13:59.252 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 19:14:10.085 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 19:14:10.085 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-27 19:26:46.608 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-27 19:26:46.966 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-27 19:26:55.411 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-27 19:26:55.418 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 09:43:08.153 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 09:43:08.179 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 09:43:12.786 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 09:45:41.897 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 09:45:41.923 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 09:45:47.163 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 09:46:35.543 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 09:46:35.582 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 09:46:39.931 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:39:47.134 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:42:54.949 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:42:55.529 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:43:01.386 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 18:43:01.406 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 18:44:48.044 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:49:20.567 [TestNG-tests-2] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:49:20.567 [TestNG-tests-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:49:20.886 [TestNG-tests-2] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:49:27.032 [TestNG-tests-2] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:49:57.522 [TestNG-test=chrome1 Test-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:50:01.157 [TestNG-test=chrome2 Test-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:50:01.470 [TestNG-test=chrome2 Test-1] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:50:06.999 [TestNG-test=chrome2 Test-1] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 18:50:06.999 [TestNG-test=chrome2 Test-2] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:50:23.306 [TestNG-test=chrome1 Test-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:50:27.260 [TestNG-test=chrome2 Test-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:50:27.559 [TestNG-test=chrome2 Test-1] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:50:33.596 [TestNG-test=chrome2 Test-1] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 18:50:33.598 [TestNG-test=chrome2 Test-2] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:53:06.768 [TestNG-tests-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:53:07.096 [TestNG-tests-1] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:54:08.710 [TestNG-tests-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:54:09.036 [TestNG-tests-1] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:54:14.086 [TestNG-tests-1] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 18:54:14.086 [TestNG-tests-1] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 18:55:56.035 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:56:14.676 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 18:56:14.702 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 18:56:20.008 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 18:56:20.011 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 19:18:25.992 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 19:18:26.018 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 19:18:56.148 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 19:18:56.171 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 19:19:00.980 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 19:19:00.981 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-29 19:19:08.492 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 19:19:08.540 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 19:19:14.043 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 19:19:14.053 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:07:04.831 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:07:05.234 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:07:11.776 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:07:11.793 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:07:48.925 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:09:14.609 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:09:15.036 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:09:21.253 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:09:21.272 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:09:59.217 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:09:59.585 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:10:10.201 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:10:10.222 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:10:27.911 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:10:28.367 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:10:35.444 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:10:35.456 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:11:00.241 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:11:00.610 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:11:05.779 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:11:05.787 [main] TestBase - Title of the login page verified successfully
+[INFO ] 2023-05-29 20:13:11.934 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:13:12.355 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:13:22.537 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:14:40.634 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:14:41.076 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:14:47.901 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:17:05.393 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:17:06.154 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:17:13.156 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-29 20:19:56.866 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-29 20:19:57.609 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-29 20:20:03.610 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:41:22.619 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:41:23.402 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:41:28.259 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:41:33.337 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:41:36.033 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:41:47.380 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:41:49.659 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:42:24.422 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:43:23.451 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:43:50.152 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:43:50.961 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:43:56.413 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:44:01.449 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:44:03.871 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:44:15.032 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:44:17.342 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:44:41.415 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:44:42.167 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:44:47.837 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:44:52.883 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:44:55.625 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:45:07.172 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:45:09.867 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:46:03.712 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:47:00.966 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:47:32.262 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 16:47:32.941 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:47:39.327 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:47:50.624 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:47:52.982 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 16:48:04.317 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 16:48:06.711 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:24:29.613 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 19:24:30.021 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:24:45.551 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:24:56.862 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:24:59.506 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:25:10.774 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:25:14.451 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:25:28.589 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 19:25:28.605 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:25:34.906 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:25:34.906 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-30 19:27:30.843 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 19:27:31.324 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:27:37.074 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:27:49.196 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:27:51.804 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:28:03.030 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:28:05.354 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:28:19.504 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 19:28:19.520 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:28:24.000 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:28:24.002 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-30 19:40:28.992 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 19:40:29.682 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:40:38.591 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:40:49.903 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:40:53.094 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 19:41:04.283 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 19:41:06.360 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:17:27.344 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 20:17:27.806 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:17:36.317 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:17:47.925 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:17:50.783 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:18:01.994 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:18:04.142 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:18:19.413 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 20:18:19.438 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:18:24.096 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:18:24.097 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-30 20:19:48.160 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 20:19:48.624 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:19:55.995 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:20:07.401 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:20:09.771 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:20:21.017 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:20:23.491 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:20:38.174 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-30 20:20:38.206 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-30 20:20:46.034 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-30 20:20:46.036 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-31 18:33:51.330 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 18:33:51.859 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:33:59.744 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 18:34:11.235 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:34:13.917 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 18:34:25.274 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:34:27.525 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 18:35:54.209 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 18:35:54.677 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:35:59.746 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 18:36:11.309 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:36:13.692 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 18:36:24.989 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 18:36:29.165 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:44:04.646 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 19:44:05.065 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:44:11.678 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:44:23.004 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:44:25.770 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:44:37.130 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:44:39.457 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:57:13.978 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 19:57:14.535 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:57:42.499 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:58:00.524 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:58:04.212 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:58:15.516 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:58:18.228 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:59:04.827 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 19:59:05.362 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:59:11.328 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:59:22.653 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:59:25.259 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 19:59:36.546 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 19:59:39.052 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:01:09.535 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:01:09.950 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:01:19.964 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:01:31.527 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:01:34.296 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:01:45.707 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:01:48.629 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:02:58.613 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:02:59.210 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:03:06.069 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:03:17.843 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:03:20.492 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:03:32.568 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:03:35.546 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:31:19.921 [TestNG-tests-1] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:31:20.165 [TestNG-tests-2] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:31:20.274 [TestNG-tests-2] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:31:20.982 [TestNG-tests-1] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:31:31.099 [TestNG-tests-2] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:31:31.102 [TestNG-tests-2] TestBase - Verify welcome message - started
+[INFO ] 2023-05-31 20:31:31.176 [TestNG-tests-1] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:31:44.683 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:31:45.576 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:31:51.568 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:32:03.104 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:32:05.737 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:32:17.164 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:32:19.835 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:32:34.594 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:32:34.883 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:32:43.029 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:32:43.030 [main] TestBase - Verify welcome message - started
+[INFO ] 2023-05-31 20:36:47.985 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:36:48.941 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:36:59.427 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:37:11.086 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:37:13.917 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:37:25.240 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:37:27.929 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:37:42.824 [main] TestBase - launched Firefox Driver-Completed
+[INFO ] 2023-05-31 20:37:43.138 [main] TestBase - Launch BaseUrl -  started
+[INFO ] 2023-05-31 20:37:50.224 [main] TestBase - Clicked on login button successfully
+[INFO ] 2023-05-31 20:37:50.224 [main] TestBase - Verify welcome message - started
