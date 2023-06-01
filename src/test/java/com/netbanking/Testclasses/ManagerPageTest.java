@@ -14,12 +14,12 @@ public class ManagerPageTest extends TestBase{
 
     @Test(priority = 1)
     public void Login() throws IOException {
-        ExtentTest ManagerPageTest=extentReports.createTest("ManagerPage test ","validating Manager page demo99 functionality ");
+        
         log.info("Launch BaseUrl -  started");
         GetUrl(baseURL);
         login(userName,Password);
         log.info( "Clicked on login button successfully");
-        ManagerPageTest.log(Status.PASS,"validating Manager page demo99  login successfull");
+        
     }
     @Test(priority = 2)
     public void VerifyWelcomeMsg() throws InterruptedException {
